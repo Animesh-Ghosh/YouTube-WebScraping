@@ -1,43 +1,7 @@
-# Installation
+# YouTube-WebScraping
 
-1. Create a virtual environment:
+An attempt to web scrape some data off of YouTube.
 
-**Linux:**
-```bash
-virtualenv -p python3 venv && cd venv && source bin/activate
-```
+Run preferrably from Jupyter Notebook. Can be exported as a Python script after opening from Jupyter Notebook once.
 
-**Windows:**
-```batch
-python -m venv venv && venv\Scripts\activate.bat
-```
-
-2. Activate the virtual environment:
-
-**Linux:**
-```bash
-cd venv && source bin/activate
-```
-
-**Windows:**
-```batch
-.\venv\Scripts\activate
-```
-
-3. Install requirements:
-
-```batch
-pip install -r requirements.txt
-```
-
-4. Run JupterLab or Jupyter Notebook:
-
-**JupyterLab:**
-```batch
-jupyter lab
-```
-
-**JupyterNotebook:**
-```batch
-jupyter notebook
-```
+The dataset may be used by anyone for any purpose, as long as credit is given about where the data was sourced from.
