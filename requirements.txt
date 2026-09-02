@@ -45,7 +45,7 @@ six==1.12.0
 soupsieve==2.8.4
 terminado==0.8.2
 testpath==0.4.2
-tornado==6.5.7
+tornado==6.5.8
 traitlets==4.3.2
 urllib3==2.7.0
 wcwidth==0.1.7
