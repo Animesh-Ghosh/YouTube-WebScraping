@@ -3,7 +3,7 @@ backcall==0.1.0
 beautifulsoup4==4.8.0
 bleach==6.4.0
 bs4==0.0.1
-certifi==2024.7.4
+certifi==2026.10.19
 chardet==3.0.4
 colorama==0.4.1
 decorator==4.4.0
